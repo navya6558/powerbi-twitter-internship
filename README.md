@@ -10,7 +10,7 @@ This repository contains my completed Power BI internship submission. The task w
 ## Files in this repo
 
 - **`project1.pbix`** — the completed Power BI Desktop file with all six task visuals, built on top of the starter dashboard file provided by my trainer.
-- **Tweet.xlsx`** — the source Twitter engagement dataset used for all six tasks.
+- **Tweet.xlsx** — the source Twitter engagement dataset used for all six tasks.
 - **`Navya_Anjali_Internship_Report.docx`** — my Internship report covering Introduction, Background, Learning Objectives, Activities and Tasks, Skills and Competencies, Feedback and Evidence, Challenges and Solutions, Outcomes and Impact, and Conclusion.
 
 ## Tasks completed
