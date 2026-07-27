@@ -24,8 +24,8 @@ The files in this repo contain the following information:
 
 4. Replies, Retweets & Likes Comparison — simple SUM-based bar chart for June-August 2020.
   
-6. Monthly Engagement Rate Trend — Line chart of average engagement rate for tweets with media compared to those without media through the month.
-7. 
+5. Monthly Engagement Rate Trend — Line chart of average engagement rate for tweets with media compared to those without media through the month.
+
 6.Top 10 tweets by Engagement – Top N chart (exclude weekend tweets), only visible during 3–5 PM IST.
 
 ## How to view
