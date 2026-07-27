@@ -21,8 +21,11 @@ The files in this repo contain the following information:
 2.Engagement Rate Comparison: Average engagement rate of tweets with app opens compared to tweets without app opens, both over two separate IST windows.
 
 3.Media views and engagements by day of week (DOW) — dual-axis chart of media views and engagements for each day of the week in Q4 2020, with conditional formatting highlighting days with above-average views.
+
 4. Replies, Retweets & Likes Comparison — simple SUM-based bar chart for June-August 2020.
-5. Monthly Engagement Rate Trend — Line chart of average engagement rate for tweets with media compared to those without media through the month.
+  
+6. Monthly Engagement Rate Trend — Line chart of average engagement rate for tweets with media compared to those without media through the month.
+7. 
 6.Top 10 tweets by Engagement – Top N chart (exclude weekend tweets), only visible during 3–5 PM IST.
 
 ## How to view
