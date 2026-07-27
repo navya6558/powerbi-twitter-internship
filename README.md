@@ -1,4 +1,4 @@
-# Power BI Internship Project — Twitter Engagement Analytics
+# Power BI Internship Project — Twitter Analysis Dashboard
 
 **Name:** Macharla Navya Anjali
 **Track:** Power BI / Data Visualization
